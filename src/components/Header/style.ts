@@ -139,7 +139,7 @@ type imgType = {
     img: string;
 };
 export const SideLogoImage = styled.span`
-    max-width: 100%;
+    max-width: 85%;
     margin-bottom: 30px;
     display: block;
     height: 116px;
