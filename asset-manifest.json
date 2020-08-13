@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/sample-home-page/static/js/main.d4a17b95.chunk.js",
-    "main.js.map": "/sample-home-page/static/js/main.d4a17b95.chunk.js.map",
-    "runtime-main.js": "/sample-home-page/static/js/runtime-main.43cd770f.js",
-    "runtime-main.js.map": "/sample-home-page/static/js/runtime-main.43cd770f.js.map",
+    "main.js": "/sample-home-page/static/js/main.4cee0a2f.chunk.js",
+    "main.js.map": "/sample-home-page/static/js/main.4cee0a2f.chunk.js.map",
+    "runtime-main.js": "/sample-home-page/static/js/runtime-main.1d1295f0.js",
+    "runtime-main.js.map": "/sample-home-page/static/js/runtime-main.1d1295f0.js.map",
     "static/css/2.f94ba274.chunk.css": "/sample-home-page/static/css/2.f94ba274.chunk.css",
     "static/js/2.81fb9e21.chunk.js": "/sample-home-page/static/js/2.81fb9e21.chunk.js",
     "static/js/2.81fb9e21.chunk.js.map": "/sample-home-page/static/js/2.81fb9e21.chunk.js.map",
-    "static/js/3.83e1823d.chunk.js": "/sample-home-page/static/js/3.83e1823d.chunk.js",
-    "static/js/3.83e1823d.chunk.js.map": "/sample-home-page/static/js/3.83e1823d.chunk.js.map",
+    "static/js/3.2455d431.chunk.js": "/sample-home-page/static/js/3.2455d431.chunk.js",
+    "static/js/3.2455d431.chunk.js.map": "/sample-home-page/static/js/3.2455d431.chunk.js.map",
     "static/css/4.8c191d56.chunk.css": "/sample-home-page/static/css/4.8c191d56.chunk.css",
     "static/js/4.1f7906c1.chunk.js": "/sample-home-page/static/js/4.1f7906c1.chunk.js",
     "static/js/4.1f7906c1.chunk.js.map": "/sample-home-page/static/js/4.1f7906c1.chunk.js.map",
     "index.html": "/sample-home-page/index.html",
-    "precache-manifest.1cfd8b0a210b77efda51e6a6c2cceb51.js": "/sample-home-page/precache-manifest.1cfd8b0a210b77efda51e6a6c2cceb51.js",
+    "precache-manifest.bc4716d3c6237aa1d5734a13310f825b.js": "/sample-home-page/precache-manifest.bc4716d3c6237aa1d5734a13310f825b.js",
     "service-worker.js": "/sample-home-page/service-worker.js",
     "static/css/2.f94ba274.chunk.css.map": "/sample-home-page/static/css/2.f94ba274.chunk.css.map",
     "static/css/4.8c191d56.chunk.css.map": "/sample-home-page/static/css/4.8c191d56.chunk.css.map",
@@ -42,9 +42,9 @@
     "static/media/product09.png": "/sample-home-page/static/media/product09.30023151.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.43cd770f.js",
+    "static/js/runtime-main.1d1295f0.js",
     "static/css/2.f94ba274.chunk.css",
     "static/js/2.81fb9e21.chunk.js",
-    "static/js/main.d4a17b95.chunk.js"
+    "static/js/main.4cee0a2f.chunk.js"
   ]
 }
