@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1fe5339657a399c19d53e0c729dbab4a",
+    "revision": "781df1eb7dd5b3c6932c53aff2cbf9ae",
     "url": "/sample-home-page/index.html"
   },
   {
-    "revision": "5d9fcfcaf984600fe3d2",
+    "revision": "8372a0de016394d6b79f",
     "url": "/sample-home-page/static/css/2.f94ba274.chunk.css"
   },
   {
@@ -12,16 +12,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sample-home-page/static/css/4.8c191d56.chunk.css"
   },
   {
-    "revision": "5d9fcfcaf984600fe3d2",
-    "url": "/sample-home-page/static/js/2.d62545ba.chunk.js"
+    "revision": "8372a0de016394d6b79f",
+    "url": "/sample-home-page/static/js/2.d1d8c952.chunk.js"
   },
   {
     "revision": "0749163b59fbee32225059cb60c18af6",
-    "url": "/sample-home-page/static/js/2.d62545ba.chunk.js.LICENSE.txt"
+    "url": "/sample-home-page/static/js/2.d1d8c952.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2da6a3e575b872cca934",
-    "url": "/sample-home-page/static/js/3.3943d679.chunk.js"
+    "revision": "e900f97dc065ee340819",
+    "url": "/sample-home-page/static/js/3.382dd9bd.chunk.js"
   },
   {
     "revision": "f96f695051af2d2e2dfd",
@@ -32,12 +32,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sample-home-page/static/js/4.32c58c8f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ef89918e88a632e29422",
-    "url": "/sample-home-page/static/js/main.ac39640c.chunk.js"
+    "revision": "189541d6a30828081596",
+    "url": "/sample-home-page/static/js/main.38f8b978.chunk.js"
   },
   {
-    "revision": "040058ed285f335623d4",
-    "url": "/sample-home-page/static/js/runtime-main.f7e33079.js"
+    "revision": "6f48d93644bdad786713",
+    "url": "/sample-home-page/static/js/runtime-main.200d3197.js"
   },
   {
     "revision": "0ed4c66b81b4951f07f1a172bad8ce22",
@@ -86,6 +86,38 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "01b06c920ffffe753b53bcabb5233989",
     "url": "/sample-home-page/static/media/organic.01b06c92.png"
+  },
+  {
+    "revision": "47e2c88c847a0b1a817ca6636cfe63dc",
+    "url": "/sample-home-page/static/media/product-1.47e2c88c.jpg"
+  },
+  {
+    "revision": "28f609b2c78ee06f368594b82932d3bc",
+    "url": "/sample-home-page/static/media/product-2.28f609b2.jpg"
+  },
+  {
+    "revision": "5cde8300197141a7614325db2468d601",
+    "url": "/sample-home-page/static/media/product-3.5cde8300.jpg"
+  },
+  {
+    "revision": "81c0171a934ad323c4fb3cc1090daf69",
+    "url": "/sample-home-page/static/media/product-4.81c0171a.jpg"
+  },
+  {
+    "revision": "3d742708f0cd805650c2e4a2bd0e0bf7",
+    "url": "/sample-home-page/static/media/product-5.3d742708.jpg"
+  },
+  {
+    "revision": "fc42070b4a7454dff12e8d1da0577e8d",
+    "url": "/sample-home-page/static/media/product-6.fc42070b.jpg"
+  },
+  {
+    "revision": "87f761ea9dae8aeafb4b54da6c37a432",
+    "url": "/sample-home-page/static/media/product-7.87f761ea.jpg"
+  },
+  {
+    "revision": "cb00739bd1121a383668983b4ba997a4",
+    "url": "/sample-home-page/static/media/product-8.cb00739b.jpg"
   },
   {
     "revision": "35d992542a5dd106de63c78fb177e870",
